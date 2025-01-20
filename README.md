@@ -1,10 +1,15 @@
 👋 Hi, I’m @joedituri
 
 👀 I’m interested in urban RPG game development, data science, GIS, and exploring new technologies in computer science.
+
 🌱 I’m currently learning web development with Django, Docker, and PostgreSQL, and honing my skills for my computer science degree.
+
 💞️ I’m looking to collaborate on innovative programming projects, including game development and data-driven solutions.
+
 📫 How to reach me: LinkedIn | GitHub.
+
 😄 Pronouns: He/Him.
+
 ⚡ Fun fact: I’m fluent in Italian, love soccer, and I’m preparing to run a half marathon!
 
 Let me know if you’d like any edits or additions!
