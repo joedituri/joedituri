@@ -1,6 +1,10 @@
-👋 Hi, I’m @joedituri
+👋 Hi, I’m Giuseppe D Turi
 
-👀 I’m interested in urban RPG game development, data science, GIS, and exploring new technologies in computer science.
+💼 Parts Counter Specialist at Altorfer CATERPILLAR
+
+🎓 DePaul CS Grad
+
+👀 I’m interested in web development, data science, GIS, and exploring new technologies in computer science.
 
 🌱 I’m currently learning web development with Django, Docker, and PostgreSQL, and honing my skills for my computer science degree.
 
