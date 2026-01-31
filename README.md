@@ -1,40 +1,26 @@
-👋 Hi, I’m Giuseppe Di Turi
+## 👋 Hi, I’m Giuseppe Di Turi
 
-💻 Computer Science graduate (DePaul University)
+🎓 **Computer Science Graduate** — DePaul University  
 📍 Chicago, IL
 
-🧠 Background:
-Parts Counter Analyst with a strong transition into software engineering. I bring real-world business experience into technical problem-solving.
+### 🛠 Tech Stack
+- **Languages:** Java, Python, C, Swift
+- **Web:** React, Django, HTML, CSS, JavaScript
+- **Backend & Tools:** PostgreSQL, Docker, Git
 
-🛠 Tech I work with:
+### 🚀 Current Focus
+- Building practical **React & full-stack projects**
 
-Languages: Java, Python, C, Swift, SAS
+### 🤝 Open To
+- Junior / entry-level software roles  
+- Hands-on, product-driven projects
 
-Web: React (learning), Django, HTML/CSS, JavaScript
+### 🌍 About Me
+- Fluent in Italian 🇮🇹  
+- Soccer player & marathon runner  
 
-Backend & Infra: PostgreSQL, Docker
-
-Tools: Git, GitHub, Jenkins, Jira, Selenium
-
-Other: Data analysis, GIS, web scraping
-
-🚀 Currently focused on:
-
-Building React + MERN-style projects
-
-🤝 Open to:
-
-Junior / entry-level software roles
-
-Practical, product-driven side projects
-
-📫 Find me here:
-
-LinkedIn: https://www.linkedin.com/in/gdituri
-
-⚡ Fun facts:
-
-Fluent in Italian 🇮🇹
+📫 **Links:**  
+[LinkedIn](https://www.linkedin.com/in/gdituri/) 
 
 <!---
 joedituri/joedituri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
