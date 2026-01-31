@@ -1,21 +1,40 @@
-👋 Hi, I’m Giuseppe D Turi
+👋 Hi, I’m Giuseppe Di Turi
 
-💼 Parts Counter Specialist at Altorfer CATERPILLAR
+💻 Computer Science graduate (DePaul University)
+📍 Chicago, IL
 
-🎓 DePaul CS Grad
+🧠 Background:
+Parts Counter Analyst with a strong transition into software engineering. I bring real-world business experience into technical problem-solving.
 
-👀 I’m interested in web development, data science, GIS, and exploring new technologies in computer science.
+🛠 Tech I work with:
 
-🌱 I’m currently learning web development with Django, Docker, and PostgreSQL, and honing my skills for my computer science degree.
+Languages: Java, Python, C, Swift, SAS
 
-💞️ I’m looking to collaborate on innovative programming projects, including game development and data-driven solutions.
+Web: React (learning), Django, HTML/CSS, JavaScript
 
-📫 How to reach me: LinkedIn | GitHub.
+Backend & Infra: PostgreSQL, Docker
 
-😄 Pronouns: He/Him.
+Tools: Git, GitHub, Jenkins, Jira, Selenium
 
-⚡ Fun fact: I’m fluent in Italian, love soccer, and I’m preparing to run a half marathon!
+Other: Data analysis, GIS, web scraping
 
+🚀 Currently focused on:
+
+Building React + MERN-style projects
+
+🤝 Open to:
+
+Junior / entry-level software roles
+
+Practical, product-driven side projects
+
+📫 Find me here:
+
+LinkedIn: https://www.linkedin.com/in/gdituri
+
+⚡ Fun facts:
+
+Fluent in Italian 🇮🇹
 
 <!---
 joedituri/joedituri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
