@@ -16,7 +16,10 @@
 
 ### 🌍 About Me
 - Fluent in Italian 🇮🇹  
-- Soccer player & marathon runner  
+- Soccer player & marathon runner
+
+- [![My Discord Profile](https://img.shields.io)](https://discord.com/users/giuseppedituri
+
 
 <!---
 joedituri/joedituri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
