@@ -18,7 +18,7 @@
 - Fluent in Italian 🇮🇹  
 - Soccer player & marathon runner
 
-- [![My Discord Profile](https://img.shields.io)](https://discord.com/users/giuseppedituri
+- [![My Discord Profile](https://img.shields.io)](https://discord.com/users/giuseppedituri)
 
 
 <!---
