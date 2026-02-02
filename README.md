@@ -13,7 +13,6 @@
 
 ### 🤝 Open To
 - Junior / entry-level software roles  
-- Hands-on, product-driven projects
 
 ### 🌍 About Me
 - Fluent in Italian 🇮🇹  
