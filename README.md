@@ -4,9 +4,9 @@
 📍 Chicago, IL
 
 ### 🛠 Tech Stack
-- **Languages:** Java, Python, C, Swift
-- **Web:** React, Django, HTML, CSS, JavaScript
-- **Backend & Tools:** PostgreSQL, Docker, Git
+- **Languages:** Javascript, Python, Java, Swift
+- **Frontend:** React, Django, Vite
+- **Backend & Tools:** Nose.js, Express, MongoDB, PostgreSQL, Docker, Git
 
 ### 🚀 Current Focus
 - Building practical **React & full-stack projects**
