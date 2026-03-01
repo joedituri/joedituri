@@ -2,21 +2,21 @@
 🎓 Computer Science Graduate — DePaul University 📍 Chicago, IL
 🛠 Tech Stack
 
-Languages: JavaScript, Python, Java, Swift
-Frontend: React, Vite, Next.js
-Backend & Tools: Node.js, Express, MongoDB, PostgreSQL, Docker, Git
+- Languages: JavaScript, Python, Java, Swift
+- Frontend: React, Vite, Next.js
+- Backend & Tools: Node.js, Express, MongoDB, PostgreSQL, Docker, Git
 
 🤖 AI & Automation
 
-LLM Integration: Claude API, prompt engineering, context window management
-Agentic Workflows: Multi-agent system design, task automation pipelines
-Local LLMs: Self-hosted model setup & configuration (Openclaw)
+- LLM Integration: Claude API, prompt engineering, context window management
+- Agentic Workflows: Multi-agent system design, task automation pipelines
+- Local LLMs: Self-hosted model setup & configuration (Openclaw)
 
 🚀 Current Focus
 
-Building AI-augmented full-stack applications
-Exploring multi-agent architectures and LLM-powered automation
-Daily-driving Openclaw for local LLM experimentation and AI skill building
+* Building AI-augmented full-stack applications
+* Exploring multi-agent architectures and LLM-powered automation
+* Daily-driving Openclaw for local LLM experimentation and AI skill building
 
 🤝 Open To
 
