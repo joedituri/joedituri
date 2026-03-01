@@ -1,18 +1,26 @@
-## 👋 Hi, I’m Giuseppe Di Turi
+👋 Hi, I'm Giuseppe Di Turi
+🎓 Computer Science Graduate — DePaul University 📍 Chicago, IL
+🛠 Tech Stack
 
-🎓 **Computer Science Graduate** — DePaul University  
-📍 Chicago, IL
+Languages: JavaScript, Python, Java, Swift
+Frontend: React, Vite, Next.js
+Backend & Tools: Node.js, Express, MongoDB, PostgreSQL, Docker, Git
 
-### 🛠 Tech Stack
-- **Languages:** Javascript, Python, Java, Swift
-- **Frontend:** React, Django, Vite
-- **Backend & Tools:** Nose.js, Express, MongoDB, PostgreSQL, Docker, Git
+🤖 AI & Automation
 
-### 🚀 Current Focus
-- Building practical **React & full-stack projects**
+LLM Integration: Claude API, prompt engineering, context window management
+Agentic Workflows: Multi-agent system design, task automation pipelines
+Local LLMs: Self-hosted model setup & configuration (Openclaw)
 
-### 🤝 Open To
-- Junior / entry-level software roles  
+🚀 Current Focus
+
+Building AI-augmented full-stack applications
+Exploring multi-agent architectures and LLM-powered automation
+Daily-driving Openclaw for local LLM experimentation and AI skill building
+
+🤝 Open To
+
+Junior / entry-level software roles with a focus on AI integration or full-stack development
 
 ### 🌍 About Me
 - Fluent in Italian 🇮🇹  
